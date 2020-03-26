@@ -1,0 +1,2 @@
+# opdemo
+operator sdk demo
